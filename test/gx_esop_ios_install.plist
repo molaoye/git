@@ -26,6 +26,10 @@
                 <string>App Subtitle</string>
                 <key>title</key>
                 <string>App Title</string>
+                <key>display-image</key>
+                <string>https://192.168.191.3:8443/iosdltest/icon.png</string>
+                <key>full-size-image</key>
+                <string>https://192.168.191.3:8443/iosdltest/icon.png</string>
             </dict>
         </dict>
     </array>
