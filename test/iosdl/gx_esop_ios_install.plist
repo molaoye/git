@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>??</string>
+                    <string>https://211.138.245.9:10001/group1/M00/00/50/CrkY_VuY2L6AIuzgADBpLRaK-Ck545.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -27,9 +27,9 @@
                 <key>title</key>
                 <string>gx_esop</string>
                 <key>display-image</key>
-                <string>??</string>
+                <string>http://10.185.24.253:8080/group1/M00/00/50/CrkY_VuY2LeAEdaQAAAsABgMUOk464.png</string>
                 <key>full-size-image</key>
-                <string>??</string>
+                <string>http://10.185.24.253:8080/group1/M00/00/50/CrkY_VuY2LeAEdaQAAAsABgMUOk464.png</string>
             </dict>
         </dict>
     </array>
